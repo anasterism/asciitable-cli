@@ -1,6 +1,11 @@
 # asciitable-cli
 ___
 
+**Install**
+```bash
+> npm install -g asciitable-cli
+```
+
 **Usage**:
 ```
 Usage: asciitable -i <input>
