@@ -1,6 +1,6 @@
 {
   "name": "asciitable-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "An Asterism",
   "license": "MIT",
   "description": "Outputs delimited text input to an ASCII formatted table",
